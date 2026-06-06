@@ -1,5 +1,28 @@
 # SQL-Exploratory-Data-Analysis-EDA-Project
-Performed end-to-end exploratory data analysis using SQL, analysing sales, customer, and product data to uncover trends, measure performance, and generate business insights through data exploration, aggregation, and ranking techniques.
+SQL Exploratory Data Analysis (EDA) Project – Summary
+
+This project focused on performing Exploratory Data Analysis (EDA) using SQL to gain insights from a sales data warehouse. The objective was to explore, understand, and validate the data before moving on to advanced analysis and reporting.
+
+The project began with database exploration, where the structure of the database, tables, columns, and relationships were examined to understand the available data. This was followed by dimension exploration, analysing key business dimensions such as customers, products, and categories to identify unique values, distributions, and data quality issues.
+
+A significant part of the project involved date exploration, where the range of sales data was investigated by identifying the first and last order dates and calculating the period covered by the dataset. This helped establish the timeframe available for analysis.
+
+The project also included measure exploration, focusing on important numerical metrics such as sales revenue, quantity sold, prices, and order counts. Aggregate functions including SUM, COUNT, AVG, MIN, and MAX were used to understand overall business performance and identify key trends.
+
+Further analysis explored the magnitude of business performance, highlighting top-performing products, customers, and categories based on sales and profitability. Ranking techniques and sorting methods were used to identify the highest and lowest contributors to business results.
+
+The final stage involved ranking analysis, where SQL queries were used to determine the Top N and Bottom N performers across different business dimensions. This provided actionable insights into customer behaviour, product performance, and sales trends.
+
+Through this project, practical experience was gained in:
+
+Writing SQL queries for data exploration and analysis.
+Using aggregate and date functions.
+Performing data validation and quality checks.
+Analysing sales, customer, and product data.
+Generating business insights from large datasets.
+Applying EDA techniques commonly used in data analytics projects.
+
+Overall, this project demonstrated how SQL can be used to transform raw data into meaningful insights, supporting data-driven decision-making and forming a strong foundation for future reporting and dashboard development.
 
  -- Explore all objects in the database 
 
