@@ -200,4 +200,5 @@ group by
 p.product_name
 order by total_revenue  
 
+<img width="1520" height="970" alt="image" src="https://github.com/user-attachments/assets/b0f46f04-177d-4d7d-b2cd-f9e89f8952b2" />
 
